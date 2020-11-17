@@ -1,2 +1,2 @@
 # mealey
-mealey machine
+mealey machine with javascript
